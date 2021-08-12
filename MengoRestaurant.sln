@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mengo.Services.ProductAPI",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mengo.Services.Identity", "Mengo.Services.Identity\Mengo.Services.Identity.csproj", "{1D9FF3AA-E722-47BE-B8D2-E31BA77A98A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mengo.Services.ShoppingCartAPI", "Mengo.Services.ShoppingCartAPI\Mengo.Services.ShoppingCartAPI.csproj", "{28D5F0E3-53E6-4F6B-937B-13CD38A97901}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mengo.Services.ShoppingCartAPI", "Mengo.Services.ShoppingCartAPI\Mengo.Services.ShoppingCartAPI.csproj", "{28D5F0E3-53E6-4F6B-937B-13CD38A97901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mengo.Services.CouponAPI", "Mengo.Services.CouponAPI\Mengo.Services.CouponAPI.csproj", "{8E823469-6F49-4E93-A9D6-0E84ABC31D30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{28D5F0E3-53E6-4F6B-937B-13CD38A97901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28D5F0E3-53E6-4F6B-937B-13CD38A97901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28D5F0E3-53E6-4F6B-937B-13CD38A97901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E823469-6F49-4E93-A9D6-0E84ABC31D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E823469-6F49-4E93-A9D6-0E84ABC31D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E823469-6F49-4E93-A9D6-0E84ABC31D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E823469-6F49-4E93-A9D6-0E84ABC31D30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{2542DE15-1321-4462-8F04-966BF7F63F78} = {72527071-3FA1-4B61-A0D8-77D516BCB1AA}
 		{1D9FF3AA-E722-47BE-B8D2-E31BA77A98A0} = {72527071-3FA1-4B61-A0D8-77D516BCB1AA}
 		{28D5F0E3-53E6-4F6B-937B-13CD38A97901} = {72527071-3FA1-4B61-A0D8-77D516BCB1AA}
+		{8E823469-6F49-4E93-A9D6-0E84ABC31D30} = {72527071-3FA1-4B61-A0D8-77D516BCB1AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCA61CB7-5A27-421C-ADB2-F57BC049A7BC}

@@ -369,3 +369,4 @@ D:\Projetos College\MengoRestaurant\Mengo.Web\bin\Debug\net5.0\System.IdentityMo
 D:\Projetos College\MengoRestaurant\Mengo.Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 D:\Projetos College\MengoRestaurant\Mengo.Web\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
 D:\Projetos College\MengoRestaurant\Mengo.Web\obj\Debug\net5.0\Razor\Views\Cart\CartIndex.cshtml.g.cs
+D:\Projetos College\MengoRestaurant\Mengo.Web\obj\Debug\net5.0\Razor\Views\Cart\Checkout.cshtml.g.cs
