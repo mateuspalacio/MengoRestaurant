@@ -5661,7 +5661,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mateu\\.nuget\\packages\\": {},
+    "C:\\Users\\uso\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
@@ -5670,14 +5670,14 @@
       "projectUniqueName": "D:\\Projetos College\\MengoRestaurant\\Mengo.Services.ProductAPI\\Mengo.Services.ProductAPI.csproj",
       "projectName": "Mengo.Services.ProductAPI",
       "projectPath": "D:\\Projetos College\\MengoRestaurant\\Mengo.Services.ProductAPI\\Mengo.Services.ProductAPI.csproj",
-      "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\uso\\.nuget\\packages\\",
       "outputPath": "D:\\Projetos College\\MengoRestaurant\\Mengo.Services.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\uso\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5749,21 +5749,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.5, 5.0.5]"
-          }
-        ],
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
